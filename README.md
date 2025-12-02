@@ -1,6 +1,6 @@
-# 🚧 SnippetVault (Under Development)
+# 🚧 CodePocket (Under Development)
 
-SnippetVault is a simple, offline desktop app to save and organize code snippets locally.  
+CodePocket is a simple, offline desktop app to save and organize code snippets locally.  
 Built with **Electron, React, and SQLite**, this project is currently **under construction** and will be completed by **25th December 2025**.
 
 ---
@@ -22,7 +22,7 @@ Built with **Electron, React, and SQLite**, this project is currently **under co
 
 ## 📦 Setup (for contributors)
 ```bash
-git clone https://github.com/YOUR-USERNAME/snippetvault
-cd snippetvault
+git clone https://github.com/YOUR-USERNAME/codepocket
+cd codepocket
 npm install
 npm run dev
