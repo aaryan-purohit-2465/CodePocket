@@ -1,7 +1,7 @@
 # 🚧 CodePocket (Under Development)
 
 CodePocket is a simple, offline desktop app to save and organize code snippets locally.  
-Built with **Electron, React, and SQLite**, this project is currently **under construction** and will be completed by **25th December 2025**.
+Built with **Electron, React, and SQLite**, this project is currently **under construction**
 
 ---
 
